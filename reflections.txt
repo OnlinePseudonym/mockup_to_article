@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I've learned a bit about how to do superscript and how to link directly to other
+elements within the page, although I didn't get a chance to impliment that here.
+
+So far a lot of this I went over before so it's all been pretty easy.
+
+I haven't run into anyting too difficult yet!
+
+I did a little bit of googling, I ran my code through an HTML validator and it
+said that <strike></strike> was obsolete and I couldn't remember how to add css
+inline, and I browsed around the documentation for a few other things I came
+across 
